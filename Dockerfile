@@ -1,4 +1,4 @@
-FROM nginx:1.13.12 as base
+FROM nginx:1.20.1 as base
 
 MAINTAINER Hobson Lane
 
