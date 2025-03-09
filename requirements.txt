@@ -5,10 +5,10 @@ pugnlp
 nltk
 spacy
 scipy>=1.0.0,<1.1.0
-numpy>=1.14.0,<1.15.0
+numpy>=1.22.2
 
 # aichat[django]
-django==2.1.2
+django==4.2.20
 gunicorn
 
 # aichat[fuzzy]
