@@ -18,7 +18,7 @@ gensim==3.4.0
 jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
-jupyter-core==4.4.0
+jupyter-core==5.8.0
 nltk==3.2.5
 numpy==1.14.2
 scikit-learn==0.19.1
